@@ -10,7 +10,7 @@ A C++ Garden Management System for managing plants, workshops, procurement recor
 - Data Structure-Based Operations
 
 ## Concepts Used
-- AVL Trees
-- Queues
-- Singly Linked Lists
+- AVL Tree
+- Queue
+- Singly Linked List
 - 0/1 Knapsack Algorithm
